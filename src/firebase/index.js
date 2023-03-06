@@ -2,13 +2,13 @@ import { initializeApp } from "firebase/app"
 import { getAuth } from "firebase/auth"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBKig4PzDD-74K23DqTEpaJDbY-BTPLD-8",
-  authDomain: "invoicez-co-in.firebaseapp.com",
-  projectId: "invoicez-co-in",
-  storageBucket: "invoicez-co-in.appspot.com",
-  messagingSenderId: "304557408513",
-  appId: "1:304557408513:web:fc1b7aa5c5490edd60db00",
-  measurementId: "G-Y5BCSX87XW"
+  apiKey: "AIzaSyD4shPWocJhOBPnfCUEhTloCrN-MC-Acyg",
+  authDomain: "email-a6d85.firebaseapp.com",
+  projectId: "email-a6d85",
+  storageBucket: "email-a6d85.appspot.com",
+  messagingSenderId: "998493887019",
+  appId: "1:998493887019:web:48260d13affd4c44bea86e",
+  measurementId: "G-WDTFM6LSDW"
 }
 
 const app = initializeApp(firebaseConfig)
